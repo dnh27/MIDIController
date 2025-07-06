@@ -10,6 +10,7 @@ The difficulty here lies mostly in the design and not the code.
 
 # Ressources
  - Adafruit Feather ESP32-S2 Reverse TFT
+ - Arduino IDE
  - OnShape
  - Prusa Slicer 
  - 3D Printer
