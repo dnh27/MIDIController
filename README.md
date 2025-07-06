@@ -1,6 +1,4 @@
 # Description
-tldr: MIDI Controller that converts analog to MIDI CCs
-
 The issue I'm trying to solve with this device is that controllers such as:
  - JoySticks
  - Pedals
